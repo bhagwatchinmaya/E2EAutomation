@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27565" started-at="2021-01-08T15:47:28Z" finished-at="2021-01-08T15:47:55Z">
+    <groups>
+    </groups>
+    <test name="Set a Komoot Tour" duration-ms="27565" started-at="2021-01-08T15:47:28Z" finished-at="2021-01-08T15:47:55Z">
+      <class name="Academy.TestLauncher">
+        <test-method status="PASS" signature="launchTestEnvironment()[pri:0, instance:Academy.TestLauncher@f381794]" name="launchTestEnvironment" is-config="true" duration-ms="8733" started-at="2021-01-08T15:47:28Z" finished-at="2021-01-08T15:47:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTestEnvironment -->
+        <test-method status="PASS" signature="validateTestApplication()[pri:1, instance:Academy.TestLauncher@f381794]" name="validateTestApplication" duration-ms="20" started-at="2021-01-08T15:47:36Z" finished-at="2021-01-08T15:47:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTestApplication -->
+        <test-method status="PASS" signature="launchLoginPage()[pri:2, instance:Academy.TestLauncher@f381794]" name="launchLoginPage" duration-ms="3000" started-at="2021-01-08T15:47:36Z" finished-at="2021-01-08T15:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchLoginPage -->
+        <test-method status="PASS" signature="testLogin()[pri:3, instance:Academy.TestLauncher@f381794]" name="testLogin" duration-ms="916" started-at="2021-01-08T15:47:39Z" finished-at="2021-01-08T15:47:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="naviagateToRoutePlannerPage()[pri:4, instance:Academy.TestLauncher@f381794]" name="naviagateToRoutePlannerPage" duration-ms="2117" started-at="2021-01-08T15:47:40Z" finished-at="2021-01-08T15:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- naviagateToRoutePlannerPage -->
+        <test-method status="PASS" signature="setDestinationPoint()[pri:5, instance:Academy.TestLauncher@f381794]" name="setDestinationPoint" duration-ms="4194" started-at="2021-01-08T15:47:42Z" finished-at="2021-01-08T15:47:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDestinationPoint -->
+        <test-method status="PASS" signature="setStartPoint()[pri:6, instance:Academy.TestLauncher@f381794]" name="setStartPoint" duration-ms="943" started-at="2021-01-08T15:47:47Z" finished-at="2021-01-08T15:47:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setStartPoint -->
+        <test-method status="PASS" signature="setSaveTour()[pri:7, instance:Academy.TestLauncher@f381794]" name="setSaveTour" duration-ms="5800" started-at="2021-01-08T15:47:48Z" finished-at="2021-01-08T15:47:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setSaveTour -->
+        <test-method status="PASS" signature="userLogout()[pri:8, instance:Academy.TestLauncher@f381794]" name="userLogout" duration-ms="1648" started-at="2021-01-08T15:47:53Z" finished-at="2021-01-08T15:47:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogout -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Academy.TestLauncher@f381794]" name="teardown" is-config="true" duration-ms="150" started-at="2021-01-08T15:47:55Z" finished-at="2021-01-08T15:47:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.TestLauncher -->
+    </test> <!-- Set a Komoot Tour -->
+  </suite> <!-- Suite -->
+</testng-results>

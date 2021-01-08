@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Academy.listeners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="Set a Tour(failed)">
+    <classes>
+      <class name="Academy.TestLauncher">
+        <methods>
+          <include name="launchTestEnvironment"/>
+          <include name="setDestinationPoint"/>
+          <include name="teardown"/>
+          <include name="setSaveTour"/>
+        </methods>
+      </class> <!-- Academy.TestLauncher -->
+    </classes>
+  </test> <!-- Set a Tour(failed) -->
+</suite> <!-- Failed suite [Suite] -->

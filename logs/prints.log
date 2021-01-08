@@ -1,0 +1,59 @@
+16:36:43.110 [main] INFO  Academy.TestLauncher - Starting Test case openBrowser
+16:36:52.498 [main] INFO  Academy.TestLauncher - Test case openBrowser completed
+16:36:52.577 [main] INFO  Academy.TestLauncher - Starting Test case validateTestApplication
+16:36:52.590 [main] INFO  Academy.TestLauncher - Test case validateTestApplication completed
+16:36:52.596 [main] INFO  Academy.TestLauncher - Starting Test case launchLoginPage
+16:36:55.415 [main] INFO  Academy.TestLauncher - Test case launchLoginPage completed
+16:36:55.419 [main] INFO  Academy.TestLauncher - Starting Test case testLogin
+16:36:56.395 [main] INFO  Academy.TestLauncher - Test case testLogin completed
+16:36:56.398 [main] INFO  Academy.TestLauncher - Starting Test case naviagateToRoutePlannerPage
+16:36:58.511 [main] INFO  Academy.TestLauncher - Test case naviagateToRoutePlannerPage completed
+16:36:58.514 [main] INFO  Academy.TestLauncher - Starting Test case setDestinationPoint
+16:37:03.697 [main] INFO  Academy.TestLauncher - Test case setDestinationPoint completed
+16:37:03.700 [main] INFO  Academy.TestLauncher - Starting Test case setStartPoint
+16:37:05.030 [main] INFO  Academy.TestLauncher - Test case setStartPoint completed
+16:37:05.038 [main] INFO  Academy.TestLauncher - Starting Test case setSaveTour
+16:37:10.914 [main] INFO  Academy.TestLauncher - Test case setSaveTour completed
+16:37:10.924 [main] INFO  Academy.TestLauncher - Starting Test case userLogout
+16:37:13.541 [main] INFO  Academy.TestLauncher - Starting teardown
+16:37:13.699 [main] INFO  Academy.TestLauncher - Teardown completed
+16:47:28.113 [main] INFO  Academy.TestLauncher - Starting Test case openBrowser
+16:47:36.826 [main] INFO  Academy.TestLauncher - Test case openBrowser completed
+16:47:36.855 [main] INFO  Academy.TestLauncher - Starting Test case validateTestApplication
+16:47:36.869 [main] INFO  Academy.TestLauncher - Test case validateTestApplication completed
+16:47:36.875 [main] INFO  Academy.TestLauncher - Starting Test case launchLoginPage
+16:47:39.873 [main] INFO  Academy.TestLauncher - Test case launchLoginPage completed
+16:47:39.876 [main] INFO  Academy.TestLauncher - Starting Test case testLogin
+16:47:40.790 [main] INFO  Academy.TestLauncher - Test case testLogin completed
+16:47:40.794 [main] INFO  Academy.TestLauncher - Starting Test case naviagateToRoutePlannerPage
+16:47:42.909 [main] INFO  Academy.TestLauncher - Test case naviagateToRoutePlannerPage completed
+16:47:42.916 [main] INFO  Academy.TestLauncher - Starting Test case setDestinationPoint
+16:47:47.107 [main] INFO  Academy.TestLauncher - Test case setDestinationPoint completed
+16:47:47.111 [main] INFO  Academy.TestLauncher - Starting Test case setStartPoint
+16:47:48.052 [main] INFO  Academy.TestLauncher - Test case setStartPoint completed
+16:47:48.057 [main] INFO  Academy.TestLauncher - Starting Test case setSaveTour
+16:47:53.854 [main] INFO  Academy.TestLauncher - Test case setSaveTour completed
+16:47:53.857 [main] INFO  Academy.TestLauncher - Starting Test case userLogout
+16:47:55.504 [main] INFO  Academy.TestLauncher - Test case userLogout completed
+16:47:55.506 [main] INFO  Academy.TestLauncher - Starting teardown
+16:47:55.656 [main] INFO  Academy.TestLauncher - Teardown completed
+16:52:27.626 [main] INFO  Academy.TestLauncher - Starting Test case openBrowser
+16:52:37.036 [main] INFO  Academy.TestLauncher - Test case openBrowser completed
+16:52:37.069 [main] INFO  Academy.TestLauncher - Starting Test case validateTestApplication
+16:52:37.084 [main] INFO  Academy.TestLauncher - Test case validateTestApplication completed
+16:52:37.085 [main] INFO  Academy.TestLauncher - Starting Test case launchLoginPage
+16:52:39.693 [main] INFO  Academy.TestLauncher - Test case launchLoginPage completed
+16:52:39.693 [main] INFO  Academy.TestLauncher - Starting Test case testLogin
+16:52:40.663 [main] INFO  Academy.TestLauncher - Test case testLogin completed
+16:52:40.664 [main] INFO  Academy.TestLauncher - Starting Test case naviagateToRoutePlannerPage
+16:52:45.335 [main] INFO  Academy.TestLauncher - Test case naviagateToRoutePlannerPage completed
+16:52:45.336 [main] INFO  Academy.TestLauncher - Starting Test case setDestinationPoint
+16:52:49.451 [main] INFO  Academy.TestLauncher - Test case setDestinationPoint completed
+16:52:49.452 [main] INFO  Academy.TestLauncher - Starting Test case setStartPoint
+16:52:50.189 [main] INFO  Academy.TestLauncher - Test case setStartPoint completed
+16:52:50.190 [main] INFO  Academy.TestLauncher - Starting Test case setSaveTour
+16:52:56.587 [main] INFO  Academy.TestLauncher - Test case setSaveTour completed
+16:52:56.588 [main] INFO  Academy.TestLauncher - Starting Test case userLogout
+16:52:58.419 [main] INFO  Academy.TestLauncher - Test case userLogout completed
+16:52:58.420 [main] INFO  Academy.TestLauncher - Starting teardown
+16:52:58.630 [main] INFO  Academy.TestLauncher - Teardown completed
