@@ -1,0 +1,25 @@
+Task 2 - SQL Task
+Refer to the following DB Tables and the task mentioned below. Add your solution in a text file and add it to GitHub repository.
+Department
+department_id department_name
+1 IT
+2 Sales
+Employee
+emp_id first_name last_name gender position department_id salary
+10001 Super Man M QA 1 45000
+10002 Jessica Liyers F Architect 1 60000
+10003 Bonnie Adams F Product Manager 1 80000
+10004 James Madison M Software developer 1 75000
+10005 Michael Greenback M Sales Assistant 2 85000
+10006 Leslie Peters F Sales engineer 2 76000
+10007 Max Powel M Sales Representative 2 59000
+10008 Stacy Jacobs F Sales Manager 2 73000
+
+TASK Write SQL queries for above two tables to obtain following results:
+
+1. Return Employee record with highest salary : select * from Employee where salary = (select max(salary) from Employee)
+2. Return the highest salary in employee table : select salary from Employee where salary = (select max(salary) from Employee)
+3. Return 2nd highest salary from employee table : SELECT distinct(salary) FROM Employee ORDER BY salary DESC LIMIT 1, 1;
+4. Select range of employees based on id : SELECT * FROM Employee WHERE emp_id BETWEEN 10005 AND 10007;
+5. Return an employee with highest salary and the employee’s department name : select e.first_name,e.last_name,d.department_name,max(e.Salary) from Department d inner join Employee e on d.department_id = e.department_id;
+6. Return highest salary, employee_name, department_name for EACH department : SELECT MAX(Salary),first_name,last_name,department_id  FROM Employee GROUP BY department_id;
